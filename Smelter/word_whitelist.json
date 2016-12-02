@@ -1066,14 +1066,6 @@
     "young",
     "your",
     "yourself"
-  ],
-  "animals": [
-    "cat",
-    "dog",
-    "tiger",
-    "bear"
-  ],
-  "approved_words": [
     "wants", 
     "attracted", 
     "developing", 
@@ -2560,6 +2552,13 @@
     "crew", 
     "them", 
     "illegitimate", 
+    
+  ],
+  "animals": [
+    "cat",
+    "dog",
+    "tiger",
+    "bear"
   ],
   "stories": [
     "Aesop's Fables",
