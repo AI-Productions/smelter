@@ -1,12 +1,9 @@
 import string
-import colorama
-from colorama import Fore, Back, Style
 
-warning = """This script MUST be used with python3 to work properly. Instead of running python word_scrambler.py, run python3 word_scrambler.py"""
-print(Fore.RED + warning)
-print(Style.RESET_ALL)
 
-script = input("""Please enter the text you would like scrambled:""")
+# Replace script w/ the text of what you're scrambling.
+script = """We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general"""
+
 
 def strip_punctuation(text):
     punctiation_set = set(string.punctuation)
