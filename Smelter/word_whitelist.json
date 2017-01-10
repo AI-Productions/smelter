@@ -12,7 +12,6 @@
 	],
 	"game_terms": [
 		"logi",
-		"logic",
 		"w",
 		"s",
 		"d",
@@ -22,11 +21,11 @@
 		"corporation",
 		"invite",
 		"b",
-		"logistics",
+		"logisics",
 		"select",
 		"bind",
 		"shortcut",
-		"activate",
+		"acivate",
 		"killed",
 		"pharmacy",
 		"hospital",
@@ -40,19 +39,10 @@
 		"generator",
 		"inventory",
 		"afk",
-		"grenade",
-		"Wojtek",
-		"Tovio",
-		"Siwash",
-		"Scipio",
-		"Voytek",
-		"spiketrap",
-		"turret",
-		"potion",
-		"ore"
-
+		"grenade"
 	],
 	"approved_words": [
+		"grenade",
 		"play",
 		"charming",
 		"ladder",
